@@ -21,4 +21,4 @@ Main script and additional functions
  - MoodSpikes_FilterFilip
  - MoodCycles_getHighLowEvents_withnoisfloor_NObuiltinfilter
 
-Analyses were run on a computer with Intel® Xeon® Silver 4108 CPU @ 1.80 GHz, 188 GB RAM, 16 physical cores, and 32 logical cores, and running Ubuntu version 18.04.6
+Analyses were run on a computer with Intel® Core™ i5-9500 CPU @ 3.00GHz with 64 GB RAM, operating a 64-bit operating system, x64-based processor, version 22H2. 
